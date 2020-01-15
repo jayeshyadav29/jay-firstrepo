@@ -1,2 +1,2 @@
 hello i am file1 
-new change
+new change.
